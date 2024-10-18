@@ -1,0 +1,5 @@
+Watch Back to Basics: C++ Smart Pointers - https://www.youtube.com/watch?v=YokY6HzLkXs
+
+Implement:
+unique_ptr
+shared_ptr - control block should contain shared_counter and a pointer to the object
